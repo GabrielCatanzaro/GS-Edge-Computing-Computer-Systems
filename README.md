@@ -33,7 +33,7 @@ Passos para implementação:
   •	Com base nos dados de umidade do solo, o agricultor pode tomar decisões informadas sobre irrigação, evitando tanto o desperdício quanto a escassez de água.
   •	A detecção precoce de problemas de umidade, como solos muito secos ou excessivamente úmidos, permite a implementação de medidas corretivas oportunas, como ajustar os ciclos de irrigação.
   
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
  
  Codigo usado no arduíno:
   
@@ -81,7 +81,7 @@ void loop() {
   lcd.clear();
 }
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 Link de acesso para o tinkercad:
 
