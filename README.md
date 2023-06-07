@@ -4,10 +4,10 @@ GS  01 de Edge Computing com todos entregáveis, links e participantes
 
 Participantes:
 
-rm98765@fiap.com.br - Lipe
-rm93445@fiap.com.br - Gab
-rm88166@fiap.com.br - Salv
-rm98766@fiap.com.br - Lucas
+RM: 98765 - Filipe Prado Menezes
+RM: 93445 - Gabriel Gomes Catanzaro
+RM: 88166 - Pedro Henrique Salvitti
+RM: 98766 - Lucas Gomes Alcantara
 
 Ideia: Sistema de monitoramento de umidade do solo em tempo real
 
@@ -36,7 +36,7 @@ Passos para implementação:
   •	Escreva um código que ligue o motor de irrigação quando o solo estiver no estado “seco”.
   
 4.  Benefícios:
-  •	O agricultor pode monitorar a umidade do solo em tempo real tendo um controle melhor, podendo configurar manualmente os valores de acordo com o que precisar
+  •	O agricultor pode monitorar a umidade do solo em tempo real tendo um controle melhor, podendo configurar manualmente os valores de acordo com o que precisar.
   •	Com base nos dados de umidade do solo, o agricultor pode tomar decisões informadas sobre irrigação, evitando tanto o desperdício quanto a escassez de água.
   •	A detecção precoce de problemas de umidade, como solos muito secos ou excessivamente úmidos, permite a implementação de medidas corretivas oportunas, como ajustar os ciclos de irrigação.
   
