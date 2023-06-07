@@ -1,6 +1,13 @@
 # GS-Edge-Computing-Computer-Systems
-GS  01 de Edge Computing com todos entregáveis e links
+GS  01 de Edge Computing com todos entregáveis, links e participantes
 
+
+Participantes:
+
+rm98765@fiap.com.br - Lipe
+rm93445@fiap.com.br - Gab
+rm88166@fiap.com.br - Salv
+rm98766@fiap.com.br - Lucas
 
 Ideia: Sistema de monitoramento de umidade do solo em tempo real
 
