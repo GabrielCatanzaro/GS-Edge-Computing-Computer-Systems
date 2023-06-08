@@ -94,4 +94,9 @@ Link de acesso para o tinkercad:
 
 https://www.tinkercad.com/things/3oNG4DrvHZP-glorious-jofo/editel?sharecode=gAU9-2lpuSkxAbAUMTwTRvXsOVlts4tu7rnMKlaSMQU
 
+--------------------------------------------------------------------------------
+
+Link do video:
+
+https://youtu.be/koIPE9rxasc
 
